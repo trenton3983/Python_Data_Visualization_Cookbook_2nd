@@ -1,0 +1,13 @@
+axes.titlesize : 12
+lines.linewidth : 2
+xtick.labelsize : 8
+ytick.labelsize : 8
+figure.facecolor: white
+figure.edgecolor: 555555
+xtick.color: 555555
+
+axes.color_cycle: E54A22, 3A89BE
+                   # E24A33 : red
+                   # 348ABD : blue
+
+axes.facecolor: EEEEEE
